@@ -1,0 +1,11 @@
+<!-- BS CSS -->
+<style type="text/css">
+	@import "../js/bootstrap/css/bootstrap.min.css";
+</style>
+<!-- JQUERY	JS -->
+<script type="text/javascript" src="../js/bootstrap/js/jquery.min.js"></script>
+<!-- POPPER -->
+<script type="text/javascript" src="../js/bootstrap/js/popper.min.js"></script>
+<!-- BS JS -->
+<script type="text/javascript" src="../js/bootstrap/js/bootstrap.min.js"></script>
+
